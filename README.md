@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **HTML5, CSS3, or your favourite Sea Shanty**
 
-- 📫 How to reach me **eclawrie@gmail.com**
+- 📫 How to reach me 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
