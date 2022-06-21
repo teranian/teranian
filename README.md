@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **New Projects**
 
-- 💬 Ask me about **HTML5, CSS3, or your favourite Sea Shanty**
+- 💬 Ask me about **HTML5, CSS3, or my favourite Sea Shanty**
 
 - 📫 How to reach me 
 
