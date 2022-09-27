@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on 
   - [canberrashantyclub.netlify.app](https://canberrashantyclub.netlify.app)
-  - [pickersandfiddlers.netlify.app](https://pickersandfiddlers.netlify.app)
+  - [pickersandfiddlers.netlify.app](https://canberrapickersandfiddlers.netlify.app/)
   - [shantyclubdirectory.netlify.app](https://fantastic-truffle-81d195.netlify.app/)
   
 
