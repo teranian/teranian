@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ewan Lawrie</h1>
 <h3 align="center">A passionate frontend developer from Australia</h3>
 
-- 🔭 I’m currently working on [canberrashantyclub.netlify.app](canberrashantyclub.netlify.app)
+- 🔭 I’m currently working on 
+  - [canberrashantyclub.netlify.app](https://canberrashantyclub.netlify.app)
+  - [pickersandfiddlers.netlify.app](https://pickersandfiddlers.netlify.app)
+  - [shantyclubdirectory.netlify.app](https://fantastic-truffle-81d195.netlify.app/)
+  
 
 - 🌱 I’m currently learning **React.js, NodeJS/Express, TailwindCSS**
 
